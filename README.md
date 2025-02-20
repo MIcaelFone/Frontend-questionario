@@ -25,7 +25,7 @@ Uma aplicação web de questionário construída usando React e Vite, projetada 
 ## ⚙️ Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-repositorio/questionario-app.git
+   git clone /https://github.com/MIcaelFone/Frontend--questionario.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
