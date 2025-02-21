@@ -32,16 +32,20 @@ Uma aplicação web de questionário construída usando React e Vite, projetada 
    ```bash
    npm install
    ```
-3. Inicie o servidor de desenvolvimento:
+3. Faça o build do projeto:
+   ```bash
+   npm run build
+   ```
+4. Inicie o servidor de desenvolvimento:
    ```bash
    npm run dev
    ```
 
 ## 🛠️ Tecnologias
 - React + Vite
-- JavaScript/TypeScript
+- JavaScript
 - Tailwind CSS
-- Firebase (ou qualquer backend para armazenamento de dados)
+
 
 ## 🤝 Contribuindo
 Contribuições são bem-vindas! Siga estas etapas:
