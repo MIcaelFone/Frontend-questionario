@@ -41,9 +41,7 @@ function ListarPerguntas() {
     const visualizarQuestionario = (id) => {
         navigate(`/questionario/${id}`);
     };
-    const visualizarContagemVotos = (id) => {
-        navigate(`/contagemvotos/${id}`);
-    };
+   
 
     
     const deletarQuestionario = async (id) => {
@@ -77,10 +75,9 @@ function ListarPerguntas() {
                                 <div  key={index} className="card" style={{ width: "23rem" }}>
                                     <div className="card-body">
                                         <QuestionarioDescricao  texto={pergunta.titulo} dataInicio={pergunta.data_hora_inicio} dataFinal={pergunta.data_hora_fim}/>
-                                        <div className="gap-1 d-flex justify-content-between">
+                                        <div className=" d-flex gap-2">
                                             <ButtonComponent variant="primary" text="Editar"  onClick={()=>visualizarQuestionario(pergunta.idquestao)}/>
                                             <ButtonComponent variant="danger" text="Excluir" onClick={()=>deletarQuestionario(pergunta.idquestao)}/>
-                                            <ButtonComponent variant="primary" text="Contagem votos" onClick={()=>visualizarContagemVotos(pergunta.idquestao)}/>
                                         </div>
                                     </div>
                                 </div>
