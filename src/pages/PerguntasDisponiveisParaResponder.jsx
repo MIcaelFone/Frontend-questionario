@@ -34,7 +34,7 @@ const PerguntasDisponiveisParaResponder = () => {
         <div>
             <Container className="mt-5 d-flex align-items-center justify-content-center">
                 <Row className=" justify-content-center ">
-                    <h1>Perguntas cadastradas</h1>
+                    <h1>Perguntas disponíveis para responder</h1>
                 </Row>
             </Container> 
             <Container className="mt-5 d-flex flex-wrap justify-content-between">
