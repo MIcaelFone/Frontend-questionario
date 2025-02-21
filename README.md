@@ -24,27 +24,27 @@ Nesta página, o usuário pode cadastrar uma nova pergunta. Regras:
 - Selecionar pelo menos 3 opções (menos que isso será inválido).
 - Adicionar um título.
 
-![Cadastro de Pergunta](./assets/cadastro_pergunta.png)
+![Cadastro de Pergunta](./src/images/cadastro.png)
 
 ### 📋 Página de Perguntas Cadastradas
 Nesta página, as perguntas cadastradas são listadas com opções para editar ou deletar.
 
-![Perguntas Cadastradas](./assets/perguntas_cadastradas.png)
+![Perguntas Cadastradas](./src/images/perguntas_cadastradas.png)
 
 ### ✏️ Página de Edição de Pergunta
 Aqui, o usuário pode editar qualquer campo da pergunta, seguindo as mesmas regras da página de cadastro.
 
-![Edição de Pergunta](./assets/editar_pergunta.png)
+![Edição de Pergunta](./src/images/editar_pergunta.png)
 
 ### ✅ Página de Perguntas Disponíveis
 As perguntas disponíveis para resposta são exibidas para os usuários.
 
-![Perguntas Disponíveis](./assets/perguntas_disponiveis.png)
+![Perguntas Disponíveis](./src/images/perguntas_diponiveis_para_responder.png)
 
 ### 📝 Página de Responder Pergunta
 O usuário pode selecionar uma resposta para a pergunta. Apenas uma opção pode ser escolhida.
 
-![Responder Pergunta](./assets/responder_pergunta.png)
+![Responder Pergunta](./src/images/pagina_responder_pergunta.png)
 
 ## ⚙️ Instalação
 1. Clone o repositório:
