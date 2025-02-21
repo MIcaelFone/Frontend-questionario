@@ -29,7 +29,7 @@ Nesta página, o usuário pode cadastrar uma nova pergunta. Regras:
 ### 📋 Página de Perguntas Cadastradas
 Nesta página, as perguntas cadastradas são listadas com opções para editar ou deletar.
 
-![Perguntas Cadastradas](./src/images/perguntas_cadastradas.png)
+![Perguntas Cadastradas](./src/images/perguntas_cadastrada.png)
 
 ### ✏️ Página de Edição de Pergunta
 Aqui, o usuário pode editar qualquer campo da pergunta, seguindo as mesmas regras da página de cadastro.
