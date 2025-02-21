@@ -64,6 +64,9 @@ O usuário pode selecionar uma resposta para a pergunta. Apenas uma opção pode
    ```bash
    npm run dev
    ```
+## 🔗 Backend
+Este projeto utiliza um backend dedicado para gerenciar as perguntas e respostas. Você pode acessar o repositório do backend no GitHub através do link abaixo:
+[Repositório do Backend](https://github.com/MIcaelFone/Backend-questionario)
 
 ## 🛠️ Tecnologias
 - React + Vite
