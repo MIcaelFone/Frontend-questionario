@@ -39,9 +39,9 @@ Uma aplicação web de questionário construída usando React e Vite, projetada 
 
 ## 🛠️ Tecnologias
 - React + Vite
-- JavaScript/TypeScript
+- JavaScript
 - Tailwind CSS
-- Firebase (ou qualquer backend para armazenamento de dados)
+
 
 ## 🤝 Contribuindo
 Contribuições são bem-vindas! Siga estas etapas:
