@@ -43,7 +43,7 @@ As perguntas disponíveis para resposta são exibidas para os usuários.
 ![Perguntas Disponíveis](./src/images/perguntas_diponiveis_para_responder.png)
 
 ### 📝 Página de Responder Pergunta
-O usuário pode selecionar uma resposta para a pergunta. Apenas uma opção pode ser escolhida.
+O usuário pode escolher apenas uma opção.
 
 ![Responder Pergunta](./src/images/pagina_responder_pergunta.png)
 
