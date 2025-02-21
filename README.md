@@ -17,10 +17,34 @@ Uma aplicação web de questionário construída usando React e Vite, projetada 
 - Armazenamento e processamento seguro de dados
 
 ## 🎯 Uso
-1. Abra a aplicação no seu navegador
-2. Selecione ou crie um questionário
-3. Envie respostas
-4. Visualize e analise os resultados
+### 📄 Página de Cadastro
+Nesta página, o usuário pode cadastrar uma nova pergunta. Regras:
+- Escolher uma data válida para início e término da questão.
+- A data final precisa ser maior do que a inicial.
+- Selecionar pelo menos 3 opções (menos que isso será inválido).
+- Adicionar um título.
+
+![Cadastro de Pergunta](./assets/cadastro_pergunta.png)
+
+### 📋 Página de Perguntas Cadastradas
+Nesta página, as perguntas cadastradas são listadas com opções para editar ou deletar.
+
+![Perguntas Cadastradas](./assets/perguntas_cadastradas.png)
+
+### ✏️ Página de Edição de Pergunta
+Aqui, o usuário pode editar qualquer campo da pergunta, seguindo as mesmas regras da página de cadastro.
+
+![Edição de Pergunta](./assets/editar_pergunta.png)
+
+### ✅ Página de Perguntas Disponíveis
+As perguntas disponíveis para resposta são exibidas para os usuários.
+
+![Perguntas Disponíveis](./assets/perguntas_disponiveis.png)
+
+### 📝 Página de Responder Pergunta
+O usuário pode selecionar uma resposta para a pergunta. Apenas uma opção pode ser escolhida.
+
+![Responder Pergunta](./assets/responder_pergunta.png)
 
 ## ⚙️ Instalação
 1. Clone o repositório:
