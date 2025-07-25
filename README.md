@@ -12,7 +12,7 @@ Uma aplicação web de questionário construída usando React e Vite, projetada 
 - [📜 Licença](#-licença)
 
 ## 🚀 Funcionalidades
-- Criar, editar e gerenciar questionários
+- Criar, editar,excluir e gerenciar questionários
 - Interface amigável para envio de respostas
 - Visualização de resultados em tempo real
 - Armazenamento e processamento seguro de dados
